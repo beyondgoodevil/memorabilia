@@ -392,10 +392,10 @@
 - Child of Leto = Apollo
 - Xanthos provides the details *how* Achilles will die: to a god and a mortal (Apollo and Paris). This is news to him, despite knowing *of* his death.
 
-## 20
-
-- Previous book ended with Achilles declaring he would not stop until the Trojans had had enough of his fighting.
-- His arming and words announced beginning of his aristeia, but the book delays that for the time being
+!!! info "Quick Summary of 20"
+	
+        - Previous book ended with Achilles declaring he would not stop until the Trojans had had enough of his fighting.
+        - His arming and words announced beginning of his aristeia, but the book delays that for the time being
 	- This is done via assembly of the gods on Olympus, and then by describing duels between Achilles and Aineias, and Achilles and Hector, which come to nothing. 
 	- Assembly of the gods matches the assembly of the Achaians in Book 19.
 	- As the beginning of Achilles' anger was followed by a declaration of Zeus' plan (1.523-7), the renunciation of his anger is now followed by Zeus' declaration he is removing control over events, and the gods may act as they see fit.
@@ -403,6 +403,8 @@
 	- According to ancient Greek historian Strabo, this family was the royal family of Scepsis. 
 	- This means Homer was a court poet.
 	- A Homeric Hymn to Aphrodite foreshadows the future rule of Aineias' descendants. 
+
+## 20
 
 - Themis is the goddess of justice/righteousness. The assembling of the gods matches their assembly in Book 8, in which Zeus forbade them to enter battle. 
 - Zeus calls them to restore their independence as Achilles "might" take Troy and defy his destiny of death if the gods do not intervene.
