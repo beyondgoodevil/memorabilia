@@ -23,8 +23,7 @@ nav:
       - Example Course:
           - lecture_notes/example_course/example_lecture.md
   - Misc Notes:
-      - Sample Misc Note: misc_notes/sample_misc_note.md
-	 
+      - Sample Misc Note: misc_notes/sample_misc_note.md	 
 
 theme:
   name: material
