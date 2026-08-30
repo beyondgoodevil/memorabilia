@@ -21,6 +21,7 @@ nav:
           - lecture_notes/example_course/example_lecture.md
   - Book Notes:
       - Example Book: book_notes/example_book.md
+      - Iliad Chapters 13-20: book_notes/iliad_13-20.md
 
 theme:
   name: material
