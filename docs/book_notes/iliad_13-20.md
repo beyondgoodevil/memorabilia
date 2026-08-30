@@ -1,8 +1,9 @@
+!!! info "Quick Summary of 13"
+	- Zeus eases up on the Greeks for the next two chapters: the Trojan successes in Books 11 and 12 are the fulfilment of Zeus’ promise to Thetis in Book 1. 
+	- At embassy in book 9: Achilles declares that he will not think of joining the battle again until "Hektor brought fire to his own ships" (9. 650-3). That ends up happening: at the end of Book 12 Hektor called on the Trojans to ‘wreck the ramparts of the Argives, and let loose the inhuman fire on their vessels’ (12. 440-1).
+	- These events are actually really closely connected to 14-15 in which Poseidon inspires a rally of the Achaians when Zeus is distracted by the seductive charms of his wife Hera.
+	- The "aristeia" (moment of glory) of Idomeneus in this book, and the infamous Deception of Zeus (Dios apate) in Book 14, both devices to delay the response of Achilles to the Achaians’ plight.
 
-- Zeus eases up on the Greeks for the next two chapters: the Trojan successes in Books 11 and 12 are the fulfilment of Zeus’ promise to Thetis in Book 1. 
-- At embassy in book 9: Achilles declares that he will not think of joining the battle again until "Hektor brought fire to his own ships" (9. 650-3). That ends up happening: at the end of Book 12 Hektor called on the Trojans to ‘wreck the ramparts of the Argives, and let loose the inhuman fire on their vessels’ (12. 440-1).
-- These events are actually really closely connected to 14-15 in which Poseidon inspires a rally of the Achaians when Zeus is distracted by the seductive charms of his wife Hera.
-- The "aristeia" (moment of glory) of Idomeneus in this book, and the infamous Deception of Zeus (Dios apate) in Book 14, both devices to delay the response of Achilles to the Achaians’ plight.
 ## 13 
 
 - Zeus looking to other places is to indicate he is confident no gods will interfere with his actions. 
