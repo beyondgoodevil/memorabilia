@@ -450,7 +450,6 @@
 - Achilles being robbed of Aeneas through mist = Paris being saved from Menelaos by Aphrodite. 
 - Achilles kills Priams' youngest son, Polydoros. 
 - Hector is saved by Apollo, who wrapped him in thick mist.
-- 
 
 
 
