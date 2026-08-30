@@ -14,9 +14,9 @@ nav:
       - Iliad Chapters 13-20: book_notes/iliad_13-20.md
   - Podcast/Video Notes:
       - Podcasts:
-          - podcast_video_notes/tech_podcasts/example_episode.md
+          - Example Podcast: podcast_video_notes/tech_podcasts/example_episode.md
       - Videos:
-          - podcast_video_notes/youtube_lectures/example_video.md
+          - Example Video: podcast_video_notes/youtube_lectures/example_video.md
   - Lecture Notes:
       - Computer Science 101:
           - lecture_notes/computer_science_101/lecture_01_introduction.md
