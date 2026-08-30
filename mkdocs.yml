@@ -1,5 +1,5 @@
-site_name: My Zettelkasten
-site_description: A personal knowledge base of podcast, lecture, and book notes
+site_name: Memorabilia
+site_description: A personal knowledge base of notes
 site_author: beyondgoodevil
 site_url: https://beyondgoodevil.github.io/memorabilia/
 
@@ -22,6 +22,9 @@ nav:
           - lecture_notes/computer_science_101/lecture_01_introduction.md
       - Example Course:
           - lecture_notes/example_course/example_lecture.md
+  - Misc Notes:
+      - Sample Misc Note: misc_notes/sample_misc_note.md
+	 
 
 theme:
   name: material
