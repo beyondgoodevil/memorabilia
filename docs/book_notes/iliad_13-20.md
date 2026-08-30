@@ -394,13 +394,9 @@
 
 !!! info "Quick Summary of 20"
     - Previous book ended with Achilles declaring he would not stop until the Trojans had had enough of his fighting.
-    - His arming and words announced beginning of his aristeia, but the book delays that for the time being.
-    - This is done via assembly of the gods on Olympus, and then by describing duels between Achilles and Aineias, and Achilles and Hector, which come to nothing.
-    - Assembly of the gods matches the assembly of the Achaians in Book 19.
-    - As the beginning of Achilles' anger was followed by a declaration of Zeus' plan (1.523-7), the renunciation of his anger is now followed by Zeus' declaration he is removing control over events, and the gods may act as they see fit.
-    - Poseidon's prediction in 302-8 is inserted by Homer to honor a royal family which claimed descent from Aineias in an Anatolian town in Homer's day, although the Aeneid appropriates this to foreshadow Rome's origins.
-    - According to ancient Greek historian Strabo, this family was the royal family of Scepsis.
-    - This means Homer was a court poet.
+    - Poseidon's prediction in 302-8 is inserted by Homer to honor a royal family which claimed descent from Aineias.
+        - According to ancient Greek historian Strabo, this family was the royal family of Scepsis.
+        - This means Homer was likely a court poet writing for that audience.
     - A Homeric Hymn to Aphrodite foreshadows the future rule of Aineias' descendants.
 
 ## 20
