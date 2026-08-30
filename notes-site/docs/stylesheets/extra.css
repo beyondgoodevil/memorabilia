@@ -1,0 +1,22 @@
+/* Small refinements on top of the Material for MkDocs defaults */
+
+/* Slightly more comfortable reading measure and line-height for note bodies */
+.md-typeset {
+  line-height: 1.6;
+}
+
+/* Softer, more legible code blocks */
+.md-typeset pre > code {
+  border-radius: 6px;
+}
+
+/* Tighten spacing under headings that have the permalink anchor */
+.md-typeset h2, .md-typeset h3 {
+  margin-top: 1.6em;
+}
+
+/* Make admonitions (used for placeholders/callouts) feel a touch lighter */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+}
