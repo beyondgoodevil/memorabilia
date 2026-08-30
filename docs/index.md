@@ -7,8 +7,8 @@ The wiki is meant to be read [in the web format](https://beyondgoodevil.github.i
 ## How it's organized
 
 !!! info "Four sections"
-    - **Podcast/Video Notes** — Takeaways from podcast episodes and YouTube videos.
     - **Book Notes** — Notes from my readings.
+    - **Podcast/Video Notes** — Takeaways from podcast episodes and YouTube videos.
     - **Lecture Notes** — Notes from lectures I attend/watch.
     - **Misc Notes** — Random thoughts I am too lazy to organize.
 
