@@ -112,7 +112,7 @@
 	- Image of the head of a poppy, seems to echo the simile comparing the dying Gorgythion to a drooping poppy (cf. 8. 306-8n).
 
 ## 15
-Outline: !(../img/iliad_ch_15_outline.png)
+![Outline of Chapter 15](../img/iliad_ch_15_outline.png)
 
 - Homer established the Trojans winning in books 11/12 to get reversed in books 13/14
 	- At the end of book 12: Achaian defenses breached, defeat looked inevitable. 
@@ -186,8 +186,8 @@ Outline: !(../img/iliad_ch_15_outline.png)
 - Patroclus kills Sarpedon, another tragic figure.
 	- Mentions he has a wife and baby son at home 5.480, 688. Was also the first to break the Greek wall. 
 	- Also discusses noblesse oblige (noblemen must be act with kindness and honor) with Glaukos 12.310-28
-Outline:
-!(../img/iliad_ch_16_outline.png)
+
+![Outline of Chapter 16](../img/iliad_ch_16_outline.png)
 
 - Achilles had sent Patroclus to Nestor in Book 11 to find out the identity of a wounded warrior (to gauge the state of battle). After a convincing speech from Nestor, with a suggestion for Patroclus himself (790-802), Patroclus intended to return, but he met wounded Eurypylos on the way and took care of him (end of Book 11). Only at 15.405 does he depart with Eurypylos to see Achilles.
 - Achilles = shepherd of the people. This is only time it is used for him. He is the shepherd (caretaker) of an emotional Patroclus. 
@@ -236,8 +236,8 @@ Outline:
 
 ## 17
 
-Outline:
-!(../img/iliad_ch_17_outline.png)
+
+![Outline of Chapter 17](../img/iliad_ch_17_outline.png)
 
 - Book 17 is wholly devoted to fighting for the body of Patroclus. 
 - The effect of the prolonged struggle - to lead to Achilles' revelation of his friend's death.
@@ -270,7 +270,7 @@ Outline:
 	- Now he is driven by vengeance for killer of his loved one.
 	- His mother Thetis constantly points to his approaching death, which she says will soon follow that of Hector.
 
-!(../img/iliad_ch_18_outline.png)
+![Outline of Chapter 18](../img/iliad_ch_18_outline.png)
 
 
 - Achilles is anxious to know what has occurred and Homer hints he is contemplating the worst already.
@@ -321,7 +321,7 @@ Outline:
 	- Achilles says it is only "by constraint" that he nulls his anger towards Agamemnon (66). 
 	- Achilles exercises authority instead of Agamemnon from here on out.
 
-!(../img/iliad_ch_19_outline.png)
+![Outline of Chapter 19](../img/iliad_ch_19_outline.png)
 
 - Dawn the yellow-robed arose from the river of Ocean: provides a transition from the previous scene.
 	- Ocean River was the final fold on Achilles' shield. 
