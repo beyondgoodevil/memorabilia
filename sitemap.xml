@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://beyondgoodevil.github.io/memorabilia/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://beyondgoodevil.github.io/memorabilia/book_notes/example_book/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://beyondgoodevil.github.io/memorabilia/lecture_notes/computer_science_101/lecture_01_introduction/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://beyondgoodevil.github.io/memorabilia/lecture_notes/example_course/example_lecture/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://beyondgoodevil.github.io/memorabilia/podcast_video_notes/tech_podcasts/example_episode/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://beyondgoodevil.github.io/memorabilia/podcast_video_notes/youtube_lectures/example_video/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+</urlset>
